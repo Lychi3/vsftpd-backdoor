@@ -16,6 +16,8 @@ python3 vsftpd_exploit.py <dirección_ip>
 ```
 Si el servidor es vulnerable, se abrirá una shell interactiva
 
+![Exploit](/image.png)
+
 ## Requisitos:
 - Python 3
 - pwntools (pip install pwntools)
