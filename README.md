@@ -11,7 +11,8 @@ El backdoor se activa al enviar un nombre de usuario que contenga los caracteres
 
 ## Instalación
 ```
-git clone https://github.com/Lychi3/vsftpd-backdoor.git && cd vsftpd-backdoor
+git clone https://github.com/Lychi3/vsftpd-backdoor.git
+cd vsftpd-backdoor
 pip install pwntools
 ```
 
