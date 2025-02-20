@@ -1,6 +1,7 @@
-}# Exploit para el Backdoor vsftpd 2.3.4 (CVE-2011-2523)
+# Exploit para el Backdoor vsftpd 2.3.4 (CVE-2011-2523)
 
 Este exploit aprovecha un backdoor en la versión 2.3.4 del servicio FTP vsftpd. El backdoor fue introducido en el código fuente de manera maliciosa y permite la ejecución remota de comandos como root en el servidor afectado
+
 ![Exploit](/image.png)
 
 ## Funcionamiento
